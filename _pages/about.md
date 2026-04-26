@@ -28,6 +28,10 @@ I will receive my Ph.D. from the School of Computer Science at Wuhan University 
 - *2014.09 - 2018.06*, Hubei University of Technology, [School of Bioengineering](https://life.hbut.edu.cn/xygk/xyld.htm), Bachelor of Science (B.S.) in Biotechnology, Wuhan, China.
 
 
+# 📳 Contact
+-*WeChat*： minghui_cs
+-*E-mail*：minghui@whu.edu.cn
+
 # 📝 Publications 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
